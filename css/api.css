@@ -1,0 +1,894 @@
+*{
+
+    padding: 0px;
+    top: 102px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+   
+   
+    
+    /*
+    titolo container   de cima 
+  
+  
+    */
+  }
+  
+  /*
+    titolo container   de cima 
+   
+    */
+  .t1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%; /* Ocupar toda a largura disponível */
+    margin-left: 34px;
+    padding: 0px;    /* move pra baixo a letra  */
+    color: rgba(255, 255, 255, 1);
+    white-space: nowrap;
+    background: rgba(12, 112, 242, 1);
+    width: 800px;
+  height: 71px;
+  top: 2px; /*altura  */
+  left: 0px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 50px ;  /*tamanho */
+  margin-left: 40px;  /*margin espaço inicial */
+  margin-top:  22px;/* ajusta o altura  letra 3 */
+     
+  
+  
+  
+  }
+  .t2{
+    color: rgba(255, 255, 255, 1);
+    background: rgba(12, 112, 242, 1);
+    padding: left 0px;
+    padding: 20px;    /* move pra baixo a letra  */
+     /* Estilos para t2 (opcional) */
+     margin-right: 0px; /* Adiciona de espaço à esquerda */
+     white-space: nowrap;
+     margin-right: 0px; /* Adiciona 20px de espaço à direita */
+     width: 32px;/* Adiciona de espaço à esquerda */
+  height: 30px;
+  top: 36px;
+  left: 1133px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 30px ;  /*tamanho */
+  margin-left: 100px;  /*margin espaço inicial */
+  margin-top:  12px;/* ajusta o altura  letra 3 */
+  }
+  .titulo-container {
+     /* faixa */
+    /* Estilos do container (opcional) */
+    padding: left 5px;
+    display: flex; /* Habilita Flexbox */
+    width:118%; /*comprimento da faixa*/
+    
+  height: 103px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  top: 1020px; /*altura tamanho da faixa */
+  
+  
+  }
+  
+  
+  
+  .t3 {
+    /* Estilos para t3 (opcional) */
+    color: rgba(255, 255, 255, 1);
+    background: rgba(12, 112, 242, 1);
+    padding: left 45px;  /* move pra baixo a letra  */
+    
+  height: 30px;
+  top: 36px;
+  
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 30.26px;
+  text-align: left;
+  padding: 28px;    /* move pra baixo a letra  */
+    white-space: nowrap;
+    width: 340px;
+  
+  height: 30px;
+  top: 36px;
+  left: 1310px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 30.26px;
+  text-align: left;
+ 
+  margin-left: 3px;  /*margin espaço inicial */
+  margin-top:  8px;/* ajusta o altura  letra 3 */
+   /* Adiciona 20px de espaço à direita */
+   
+  
+  }
+  .principal{
+  
+   
+    width: 2008px;/* largura */
+height: 2881px; /* altura */
+top: 102px;
+gap: 0px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+background: rgba(242, 242, 242, 1);
+
+  }  
+  .titolo25 {
+    
+     /* Centraliza os itens verticalmente */
+    padding: 3px; /* Espaçamento interno */
+    display: flex; /* Habilita Flexbox para a div */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    
+  }
+  
+  .texto {
+    /* Estilos para o texto */
+    margin-right: 0px; /* Adiciona margem direita ao texto */
+    width: 700px; /* joga o texto para direita */
+    height: 282px;
+    top: 226px;
+    left: 4px;
+    gap: 0px;
+    opacity: 0px;
+    
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 60.51px;
+  text-align: left;
+  color: rgba(31, 31, 31, 1);
+  margin-right: 2px; /* Adiciona 20px de espaço à direita */
+  margin-left: 242px; 
+  margin-top:  140px;/* ajusta o altura  letra 3 */
+  }
+  
+  .img {
+    /* Estilos para a imagem */
+    max-width: 1190px; /* Largura máxima da imagem */
+    height: 2px; /* Mantém a proporção da imagem */
+    width: 355px;
+    height: 197px;
+    top: 177px;
+    left: 1133px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top:  50px;/* ajusta o altura  letra 3 */
+    
+    
+    
+  
+  }
+  /* conteiner (corpo) */
+  .corpo{
+   /* Arruma os itens verticalmente um do lado do outro */
+    display: flex; /* Habilita Flexbox */
+    
+    align-items: center; 
+    background: rgba(255, 255, 255, 1);
+
+  
+    width: 959px; /* largura */
+    height: 900px; /* altura */
+    top: 735px;
+   margin-left: 520px; /* joga div corpo para os lado direito */
+   /* position: absolute;  Para usar top e left */
+    border-radius: 20px / 10px; /* Arredonda os cantos */
+    border: 1px solid black;
+ 
+
+    
+ 
+    display: flex; /* Habilita Flexbox */
+    flex-direction: column; /* Arruma os itens verticalmente */
+   
+
+  
+  /* teste */
+  
+  gap: 15px; /* afasta um iten do outro  */
+  margin-top:  0px;/* ajusta o altura  imagen 3 */
+  
+   /*alinhamento vertical*/
+   min-height: 100%;  
+   min-height: 100vh; 
+   
+   display: flex;
+   align-items: center;
+ 
+    
+  }
+  /*laibo nome */
+  .nome-nome{
+    
+    margin-left: 3px; /*  espaço entre intens */
+    margin-bottom: 12px; /*  espaçoentre intens */
+    margin-top:  -30px;/* ajusta o altura  imagen 3 */
+    display: flex;
+    color: red;
+  }
+  .nnome{
+      /*  espaçoentre superior no corpo */
+      width: 683px;
+      height: 30px;
+      top: 779px;
+    
+      gap: 0px;
+      opacity: 0px;
+      font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.26px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+
+    margin-block: 30px; /*  espaço entre intens */
+    margin-bottom: 12px; /*  espaçoentre intens */
+  
+    align-items:end;
+    margin-top:  -10px;/* ajusta o altura  imagen 3 */
+    margin-left:  10px;/* ajusta o input resultado  imagen 3 */
+    padding-left: 338px;
+    display: flex;
+    align-items:flex-end;
+  }
+.email{
+  width: 683px;
+height: 30px;
+top: 924px;
+left: 507px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.26px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.26px;
+text-align: left;
+padding-left: 318px;
+}
+.cepn{
+  width: 683px;
+height: 30px;
+top: 1070px;
+left: 507px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.26px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+padding-left: 298px;
+}
+  
+
+
+  /* Define a largura dos titolo */
+  .titolo-latitude{
+  
+   margin-left: -66px;
+  /* margen espaço inicial do titolo*/ 
+    background: rgba(255, 255, 255, 1);
+
+
+    width: 613px;
+    height: 30px;/* Distribui o espaço entre os itens */
+    top: 1224px;
+    left: 497px;
+    gap: 0px;
+    opacity: 0px;
+    
+     
+  
+  
+  font-family: 'Inter';
+  font-style: normal;
+  
+  margin-top:  10px;/* ajusta o altura  imagen 3 */
+  
+  color: #000000;
+ 
+font-size: 30px;
+font-weight: 400;
+line-height: 30.26px;
+text-align: center;
+
+  
+    }
+   /* teste.................................................................: */ 
+
+   .longitude{  /*  in latitude*/
+
+    display:flex;/* Arruma os itens verticalmente um do lado do outro */
+    width: 296px;
+height: 56px;/* altura */
+top: 1280px;
+left: 825px;
+gap: 0px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+margin-top:  5px;/* ajusta o altura  imagen 3 */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+   }
+   .latitude{
+    
+    
+    display:flex;/* Arruma os itens verticalmente um do lado do outro */
+    width: 296px;
+height: 56px;/* altura */
+top: 1280px;
+left: 507px;
+gap: 0px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+margin-top:  5px;/* ajusta o altura  imagen 3 */
+  margin-left:  30px;/*  afasta un do outro ajusta o input resultado  imagen 3 */
+   }
+   /* titolo lat.....long */
+   .inicio-latitude{
+   display: flex;
+    background: rgba(255, 255, 255, 1);
+    
+    width: 613px;
+height: 30px;
+top: 1224px;
+left: 497px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 30.26px;
+
+
+color: rgba(0, 0, 0, 1);
+  padding-left: 0px;
+    margin-top:  0px;/* ajusta o altura  imagen 3 */
+    margin-left:  30px;/* ajusta o input resultado  imagen 3 */
+
+   }
+   .d{
+    display: flex; /* Arruma os itens verticalmente um do lado do outro */
+   }
+   .tlongitude{
+    background: rgba(255, 255, 255, 1);
+   display: flex;/* Arruma os itens verticalmente um do lado do outro */
+   padding: 5px; /* Espaçamento interno */
+
+   }
+   .botao {
+    background: rgba(12, 112, 242, 0.9);
+    width: 600px;
+    height: 986px;
+    top: 1435px;
+    left: 491px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    margin-top:  40px;/* ajusta o altura  imagen 3 */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+  color:  rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 38.73px;
+  text-align: center ;width: 127px;
+  height: 39px;
+  top: 1444px;
+  left: 750px;
+  gap: 0px;
+  opacity: 0px;
+align-items: center;  
+  
+
+   }
+  
+    
+    
+  
+  
+  input {
+    width: 630px;/*  (altura)*/
+    height: 56px;
+    top: 829px;
+    left: 499px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+   
+   display: flex;/* Arruma os itens verticalmente um do lado do outro */
+   align-items: center; 
+    padding-left: 10px; /* inputs margen espaço inicial dos inten  */ 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    background: rgba(242, 242, 242, 0.9);
+    
+    border-radius: 10px 10px 10px 10px;/* aredonda os cantos do input */
+    opacity: 0px;
+    /* Centraliza os itens verticalmente */
+    /* Habilita Flexbox para a div */
+     /* Centraliza os itens verticalmente */
+     margin-left: 90px; /* margen Adiciona de espaço à esquerda */
+   
+  }
+  /* Resultado da busca por CEP: */
+  /* busca resultado */
+  
+  .rtitoloresultado{
+   
+
+
+    display: flex; /* Define o elemento como um container flex */
+      align-items: center; 
+      width: 879px;
+      height: 96px;
+      top: 2028px;
+      left: 327px;
+      gap: 0px;
+      opacity: 0px;
+     
+      
+      
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 50px;
+      line-height: 61px;
+      width: 879px;
+      height: 96px;
+      top: 2028px;
+      left: 327px;
+      gap: 0px;
+      opacity: 0px;
+      
+     
+      color: rgba(31, 31, 31, 1);
+  
+      border: 1px solid rgba(186, 186, 186, 1);
+  
+  /* Resultado da busca por CEP: */
+  
+  } 
+  .titoloresultado{
+    display: flex; /* Define o elemento como um container flex */
+    align-items: center; /* Alinha os itens verticalmente um do lado do outro */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 61px;
+  
+  width: 879px;
+  height: 96px;
+  left: 327px;
+  top: 2028px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Adiciona um espaçamento abaixo do título */
+  margin-top:  0px;/* ajusta o altura  imagen 3 */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+  }
+  
+  .rtitoloresultado {
+  /*margin-right: 100px;  Adiciona um espaçamento à direita do título */
+  margin-top:  -400px;/* ajusta o altura  imagen 3 */
+  margin-left: 100px;/* direciona margin  imagen 3 */
+  width: 879px;
+  height: 96px;
+  top: 2028px;
+  left: 327px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 38px;
+  font-weight: 800;
+  line-height: 10.51px;
+  text-align: left;
+  margin-top:  0px;/* ajusta o altura  imagen 3 */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+  
+  }
+  
+  
+  .imagen2{
+  
+    height: 133px;
+    top: 1973px;
+    left: 1070px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -220px;/* ajusta o altura  imagen 3 */
+  margin-left: 0px;/* direciona margin  imagen 3 */
+   padding-left: 1270px;
+  }
+  /* e imagen 2 Resultado da busca por CEP: */
+  
+  /* busca resultado*/
+   /* previsao */
+   /* resultado  e imagen 3 */
+   
+   
+   /* teste div novo contem imagen 2 */
+   /* busca resultado por cep */
+   .buscacep{
+    display: flex;
+    flex-direction:row;
+    justify-items: normal;
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 60.51px;
+    text-align: left;
+    font-family: Inter;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 60.51px;
+  text-align: left;
+  
+    margin-top: 510px;/* ajusta o altura  imagen 3 */
+  margin-left:  520px;/* ajusta o input resultado  imagen 3 */
+  
+   }
+   .corpo2{
+   
+    width: 879px;
+    height: 96px;
+    top: 2028px;
+  left: 327px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 60.51px;
+  text-align: left;
+  margin-top:  -30px;/* ajusta o altura  imagen 3 */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+  
+   }
+   /* teste div novo contem resultado  imagen 3 */
+  
+   /* input ajusta  */
+   
+   
+  
+   .titolo2-resultado{
+     margin-top:  650px;/* ajusta o altura  imagen 3 */ 
+  margin-left: 400px;/* direciona margin  imagen 3 */ 
+  
+  width: 1024px;
+  height: 150px;
+  top: 2124px;
+  left: 302px;
+  gap: 0px;
+  border-radius: 30px 30px 0px 0px;
+  opacity: 0px;
+   
+    border-radius: 0px
+  0px 30px 30px; 
+  margin-top:  0px;/* ajusta o altura  imagen 3 */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+  }
+  
+    .in1{
+      
+          
+          background-color:blue ;
+       border-radius: 30px 30px 0px 0px;
+      color:  rgba(255, 255, 255, 1); 
+      width: 900px;/* largura*/ 
+  height: 62px;/* altura*/ 
+  top: 2124px;
+  left: 302px;
+  gap: 0px;
+  border-radius: 30px 30px 0px 0px;
+  opacity: 0px;
+  background: rgba(12, 112, 242, 1);
+  margin-top: 80px;/* ajusta o altura  imagen 3 */
+  margin-left:  477px;/* ajusta o input resultado  imagen 3 */
+  
+    }
+    
+     .in2{
+       display: flex; 
+      /*     */ 
+    
+       
+          background-color:blue ;
+       border-radius: 0px 0px 30px 30px; 
+       color:  rgba(255, 255, 255, 1); 
+    
+       width: 900px; /* largura*/ 
+       height: 62px;/* altura*/ 
+       top: 2124px;
+       left: 302px;
+       gap: 0px;
+     
+       opacity: 0px;
+       background: rgba(255, 255, 255, 1);
+       margin-top:  650px;/* ajusta o altura  imagen 3 */
+       margin-left: 477px;/* ajusta o input resultado  imagen 3 */
+       
+  }
+  /* input ajusta  */
+
+   .-resultado{
+    background: rgba(255, 255, 255, 1);
+    font-family: Inter;
+font-size: 20px;
+font-weight: 800;
+line-height: 24.2px;
+text-align: center;
+
+    border-radius: 30px 30px 30px 30px;
+    border: 1px 1px 1px 1px ;
+    opacity: 0px;
+    width: 970px;
+  height: 72px;
+  top: 2601px;
+  left: 312px;
+  color: black;
+
+  gap: 0px;
+  opacity: 0px;
+  margin-top:  50px;/* ajusta o altura  */
+  margin-left:  510px;/* ajusta o input resultado  imagen 3 */
+  text-emphasis-color: rgba(31, 31, 31, 1);
+          /* Exemplo de tom de cinza */
+ 
+   } 
+
+/* resultado*/
+.r{
+ display: flex;
+ flex-direction: column;
+  margin-top:  4px;/* ajusta o altura  */
+  margin-left: 1px;/* ajusta o input resultado  imagen 3 */
+  
+}
+.container{
+  display: flex; 
+ 
+border-radius:10px 10px 0px 0px;
+  
+      
+
+      border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: -100px; /* Adiciona um espaçamento abaixo do título */
+  margin-left:  10px;/* ajusta o input resultado  imagen 3 */
+  padding-left: 130px;
+}
+.div-a{
+  
+  display: flex;
+border-radius: 30px 30px 0px 0px;
+
+background: rgba(12, 112, 242, 1);
+margin-top: -60px; /* Adiciona um espaçamento abaixo do título */
+margin-left:  520px;/* ajusta o input resultado  imagen 3 */
+width: 970px; /* largura */
+height: 72px;
+top: 2124px;
+left: 302px;
+gap: 0px;
+align-items: center;
+opacity: 0px;
+
+}
+.div-b{ 
+  background-color: transparent;
+  color: transparent;
+display: flex;
+  background: rgba(255, 255, 255, 1);
+  width: 970px;
+  height: 80px;
+  top: 2124px;
+  left: 302px;
+  gap: 0px;
+  border-radius: 0px 0px 30px 30px;
+  opacity: 0px;
+  margin-top: 2px; /* Adiciona um espaçamento abaixo do título */
+  margin-left:  520px;/* ajusta o input resultado  imagen 3 */
+ 
+  font-family: Inter;
+font-size: 20px;
+font-weight: 800;
+line-height: 24.2px;
+text-align: left;
+
+
+}
+.input{
+  color: rgba(31, 31, 31, 1);
+
+}
+.a{
+ 
+
+color: rgba(255, 255, 255, 1);
+font-family: Inter;
+font-size: 20px;
+font-weight: 800;
+line-height: 24.2px;
+text-align: center;
+width: 389px;
+height: 26px;
+top: 2147px;
+left: 364px;
+gap: 0px;
+opacity: 0px;
+border: rgba(12, 112, 242, 1) ;
+
+}
+.b{
+  background: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 24.2px;
+  text-align:center;
+  width: 389px;
+height: 26px;
+top: 2219px;
+left: 384px;
+gap: 0px;
+opacity: 0px;
+color: rgba(31, 31, 31, 1);
+border:rgba(255, 255, 255, 1) 0px;
+
+}
+.ind{
+  width: 9px; 
+height: 30px; 
+top:5px; 
+left: 395px; 
+gap: 0px; 
+border-radius: 0px 0px 0px 0px; 
+opacity: 0px; 
+background: rgba(255, 255, 255, 1); 
+background-color: blue; 
+display: flex; 
+justify-content: space-between; 
+width: 1%; /* Ocupar toda a largura disponível */ 
+
+     background-color: pink; 
+
+background: rgba(12, 112, 242, 0.9); 
+border-radius: 0px 0px 10px 10px;
+  
+     color: white; 
+    padding: 10px 20px;
+}
+.int{
+  color:  rgba(255, 255, 255, 1);
+  margin-top: -100px; /* Adiciona um espaçamento abaixo do título */
+  margin-left:  10px;/* ajusta o input resultado  imagen 3 */
+  padding-left: 130px;
+
+border-radius: 10px 10px 0px 0px;
+}
+
+/*div a e b*/
+.tr{
+  background-color: blue;
+  margin-top: -0px; /* Adiciona um espaçamento abaixo do título */
+  margin-left:  0px;/* ajusta o input resultado  imagen 3 */
+  padding-left: 0px;
+  
+}
+   .titoloresultado3{
+    display: flex; /* Define o elemento como um container flex */
+    align-items: center; /* Alinha os itens verticalmente um do lado do outro */
+    font-family: 'Inter';
+    /* teste novo */
+   
+  font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 61px;
+   
+  width: 879px;
+  height: 96px;
+  left: 327px;
+  top: 2028px;
+  display: flex;
+  align-items: center;
+  margin-top: -530px; /* Adiciona um espaçamento abaixo do título */
+  margin-left:  390px;/* ajusta o input resultado  imagen 3 */
+  padding-left: 130px;
+  
+   /* teste novo */
+    
+  
+   }
+  
+   .imagen3{
+    display: flex;
+    margin-left: 0px; /* Adiciona um espaçamento entre o título e a imagem */
+    width: 160px;
+    height: 106px;/* tamanho imagen 3 */
+    top: 2454px;/* dece imagen 3 */
+    left: 1258px;
+    gap: 0px;
+    opacity: 0px;
+  margin-top: -128px;/* direciona altura  imagen 3 */
+  margin-left: 1250px;/* direciona margin  imagen 3 */
+ 
+  
+   
+   }
+   /* resultadoe imagen 3 */
+  
+  .Previsão{
+   color: rgba(255, 255, 255, 1);
+   border-radius: (12, 112, 242, 1)
+  }
+  /* previsao */
+  /* faixa final */
+  .final{
+   justify-items: end;
+   text-align: end;
+   margin-left: 1450px;
+  
+    width: 532px;/* largura faixa final */
+  
+  height: 30px;
+  top: 2921px;
+  left: 1970px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 30.26px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  background: rgba(12, 112, 242, 1);
+  
+      
+  
+  }
+  .ffinal{
+   
+   position: absolute;
+    bottom: 10px;
+    right: 10px;
+    text-align:end;
+    background: rgba(12, 112, 242, 1);
+    width: 1999px;/* largura faixa final */
+  padding-left: 0%;
+  height: 94px;
+  top: 2889px;
+  left: -1px;
+  gap: 0px;
+  opacity: 0px;
+  
+  
+  }
